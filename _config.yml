@@ -77,6 +77,15 @@ naver_site_verification  :
 yandex_site_verification :
 baidu_site_verification  :
 
+repository: "economists1/blog1"
+comments:
+  provider: "utterances"
+  utterances:
+    theme: "github-light" # "github-dark"
+    issue_term: "pathname"
+    label: "comment" # Optional - must be existing label.
+
+
 # Social Sharing
 twitter:
   username               :
