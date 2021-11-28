@@ -1,8 +1,14 @@
 Mohit Negi:
   name        : "Mohit Negi"
-  bio         : ""
-  avatar      : ""
+  bio         : "I am an MSc Economics student at Bocconi University, Milan. My research interests include Social Networks Analysis, Political Economics, and Political Methodology."
+  location    : "Milan, Italy"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:mohitnegi1442000@gmail.com"
+    - label: "CV"
+      icon: "fas fa-fw fa-file"
+      url: "https://drive.google.com/file/d/1WRtra2JuunkB1HRbxc-mH_MmqBF1S2R4/view?usp=sharing"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/mohit-j-negi/"
