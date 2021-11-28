@@ -1,7 +1,7 @@
 Mohit Negi:
   name        : "Mohit Negi"
   bio         : ""
-  avatar      : "/assets/images/mohit.jpg"
+  avatar      : ""
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
