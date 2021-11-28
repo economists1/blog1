@@ -1,0 +1,8 @@
+Mohit Negi:
+  name        : "Mohit Negi"
+  bio         : "My potential grades have huge confidence intervals."
+  avatar      : "/assets/images/mohit.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:mohitnegi1442000@gmail.com"
